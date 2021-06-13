@@ -1,0 +1,57 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.header
+{
+  height: 100vh;
+  background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://upgradedpoints.com/wp-content/uploads/2020/05/Cheap-Beach-Vacation-732x348.png);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+}
+h1
+{
+  color: #ffffff;
+  margin-bottom: 70px;
+  font-size: 45px;
+  letter-spacing: 2px;
+  text-align: center;
+  font-family: times roman;
+}
+.search-field
+{
+  height: 50px;
+  padding: 10px;
+  border: none;
+  border-radius: 25px;
+  outline: none;
+  
+}
+.location
+{
+  width: 400px;
+}
+.search-btn
+{
+  height: 40px;
+  width: 150px;
+  background: #ffeb3b;
+  colour: #0000;
+  border-radius: 25px;
+}
+.search-btn
+{
+  background: #ffc107;
+  cursor: pointer;
+}
+.form-box
+{
+  background: rgba(0,0,0,0.5);
+  padding: 30px;
+}
+  
+   
